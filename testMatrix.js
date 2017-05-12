@@ -1,4 +1,4 @@
-import { expect } from 'chai'
+let expect = require('chai').expect
 
 
 describe('count', function(){
